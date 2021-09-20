@@ -1,4 +1,4 @@
-package com.example.fragmentpractice
+package com.example.fragmentbestpractice
 
 import android.content.Context
 import android.content.Intent

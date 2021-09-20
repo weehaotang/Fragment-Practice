@@ -1,4 +1,4 @@
-package com.example.fragmentpractice
+package com.example.fragmentbestpractice
 
 import android.os.Bundle
 import android.view.LayoutInflater

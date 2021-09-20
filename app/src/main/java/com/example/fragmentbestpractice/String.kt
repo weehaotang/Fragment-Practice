@@ -1,4 +1,4 @@
-package com.example.fragmentpractice
+package com.example.fragmentbestpractice
 
 fun String.lettersCount(): Int {
     var count = 0
